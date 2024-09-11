@@ -1,2 +1,7 @@
 Tiny the Poodle
+<<<<<<< HEAD
 Rex the German Shepherd
+=======
+Rex the German Shepherd
+Shrimp the Parakeet
+>>>>>>> new_pets
